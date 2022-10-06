@@ -1,3 +1,5 @@
+package lekcja1;
+
 public class Gry {
     public static void main(String[] args) {
         System.out.println("Według mnie najlepsze gry to:");
@@ -10,7 +12,7 @@ public class Gry {
         System.out.println("Według mnie najgorsze gry to:");
         System.out.println("\"Apex Legends\"");
         System.out.println("\"Brawl Stars\"");
-        System.out.println("\the forest");
+        System.out.println("\"the forest\"");
 
     }
 }

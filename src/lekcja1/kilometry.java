@@ -1,3 +1,5 @@
+package lekcja1;
+
 import java.util.Scanner;
 public class kilometry {
     public static void main(String[] args) {
@@ -9,7 +11,7 @@ public class kilometry {
         System.out.println("Podaj ilość spalonego paliwa");
         double fuelspalone = klawiatura.nextDouble();
         klawiatura.nextLine();
-        System.out.println("Liczba przejechanych kilometrów"
+        System.out.println("Liczba przejechanych kilometrów "
             + kilometryprzejechane / fuelspalone + "km");
     }
 }

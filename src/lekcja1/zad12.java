@@ -1,3 +1,5 @@
+package lekcja1;
+
 import java.util.Scanner;
 public class zad12 {
     public static void main(String[] args) {

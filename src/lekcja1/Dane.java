@@ -1,4 +1,8 @@
+package lekcja1;
+
 import java.util.Date;
+import java.util.Scanner;
+
 public class Dane {
     public static void main(String[] args) {
         Date nowDate = new Date();
@@ -7,5 +11,5 @@ public class Dane {
         System.out.print("Nr.domu,Nr.mieszkania" + "\n");
         System.out.print("miasto,kod pocztowy" + "\n");
         System.out.print("Nr.telefonu" + "\n");
-        }
     }
+}

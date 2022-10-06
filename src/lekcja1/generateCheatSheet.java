@@ -1,3 +1,5 @@
+package lekcja1;
+
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 

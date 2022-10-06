@@ -1,3 +1,5 @@
+package lekcja1;
+
 public class zad8 {
     public static void main(String[] args) {
         String name;
